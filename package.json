@@ -1,0 +1,27 @@
+{
+  "name": "seleniumwebdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzeinichenka/SeleniumWebdriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzeinichenka/SeleniumWebdriver/issues"
+  },
+  "homepage": "https://github.com/Dzeinichenka/SeleniumWebdriver#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^100.0.0"
+  }
+}
